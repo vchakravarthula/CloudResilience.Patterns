@@ -25,6 +25,7 @@ The following console output demonstrates a **Total Service Outage** scenario:
 4. **Magenta:** Circuit enters **HALF-OPEN** to probe for service recovery.
 
 ![Resilience Demo Output]
+
 <img width="444" height="738" alt="AdobeExpressPhotos_635d5f070cef4f289761cf8ba5cc96bf_CopyEdited" src="https://github.com/user-attachments/assets/ddbf6ea2-1362-4358-a1bd-5620bd71fdd4" />
 
 
